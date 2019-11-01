@@ -1,5 +1,5 @@
 # Cppcheck
-Một số thông báo lỗi trả về sau khi check:
+Một số thông báo lỗi trả về sau khi sử dụng Cppcheck:
 
 <img src="check1.png">
 
