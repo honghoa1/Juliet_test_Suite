@@ -1,4 +1,4 @@
-# Cppcheck
+# 1. Cppcheck
 Một số thông báo lỗi trả về sau khi sử dụng Cppcheck:
 
 <img src="check1.png">
@@ -11,4 +11,6 @@ Một số thông báo lỗi trả về sau khi sử dụng Cppcheck:
 
 <img src="check5.png">
 
+# 2. CodeScene
 
+[![](https://codescene.io/projects/5870/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5870/jobs/16598/results)
