@@ -33,5 +33,6 @@ Cũng như nhiều chương trình phân tích, có nhiều trường hợp bấ
 [![](https://codescene.io/projects/5870/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/5870/jobs/16598/results)
 
 - CodeScene ưu tiên các vấn đề về "nợ kỹ thuật" và chất lượng code dựa trên cách tổ chức làm việc thực sự với code. Do đó, CodeScene giới hạn kết quả trả về với các thông tin được kiểm tra.
+
 -CodeScene cũng vượt xa các công cụ truyền thống bằng cách đo lường việc tổ chức trong hệ thống để phát hiện các tắc nghẽn phối hợp trong kiến trúc phần mềm, rủi ro  và lỗ hổng kiến thức.
 - CodeScene liên kết với github rất tiện cho việc lấy mã nguồn và đây là công cụ kiểm thử tĩnh cho nhiều ngôn ngữ khác nhau.
